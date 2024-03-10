@@ -1,0 +1,68 @@
+const carsData = [
+  {
+    id: 1,
+    origin: "Chicago Airport",
+    destination: "HotelA",
+    type: "E",
+    carbonEmission: 23,
+    price: 60,
+  },
+  {
+    id: 2,
+    origin: "Chicago Airport",
+    destination: "HotelA",
+    type: "P",
+    carbonEmission: 36,
+    price: 57,
+  },
+  {
+    id: 3,
+    origin: "Chicago Airport",
+    destination: "HotelA",
+    type: "D",
+    carbonEmission: 43,
+    price: 56,
+  },
+  {
+    id: 4,
+    origin: "Chicago Airport",
+    destination: "HotelA",
+    type: "D",
+    carbonEmission: 57,
+    price: 54,
+  },
+  {
+    id: 5,
+    origin: "Chicago Airport",
+    destination: "HotelA",
+    type: "E",
+    carbonEmission: 69,
+    price: 50,
+  },
+  {
+    id: 6,
+    origin: "Chicago Airport",
+    destination: "HotelA",
+    type: "E",
+    carbonEmission: 73,
+    price: 47,
+  },
+  {
+    id: 7,
+    origin: "Chicago Airport",
+    destination: "HotelA",
+    type: "D",
+    carbonEmission: 87,
+    price: 43,
+  },
+  {
+    id: 8,
+    origin: "Chicago Airport",
+    destination: "HotelA",
+    type: "E",
+    carbonEmission: 94,
+    price: 39,
+  },
+];
+
+export default carsData;
